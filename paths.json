@@ -1,8 +1,7 @@
 {
   "mappings": [
-    "/content/xsc-xwalk-site/:/",
-    "/content/xsc-xwalk-site/metadata.json:/metadata.json",
-    "/content/xsc-xwalk-site/redirects.json:/redirects.json",
-    "/content/xsc-xwalk-site/configuration.json:/configuration.json"
+    "/content/varawat/varawat-2025-2-4-11-11-27/:/",
+    "/content/varawat/varawat-2025-2-4-11-11-27/metadata.json:/metadata.json",
+    "/content/varawat/varawat-2025-2-4-11-11-27/redirects.json:/redirects.json"
   ]
 }
